@@ -35,11 +35,10 @@ section{
 }
 .drem-big{
     background-image: url(../images/dream-bg.png);
-    background-repeat: no-repeatZ
-    
-    
-    
-    
-    
-    ;
+    background-repeat: no-repeat;
+    background-position:right;
+
+}
+.text{
+    margin-right:90px;
 }
